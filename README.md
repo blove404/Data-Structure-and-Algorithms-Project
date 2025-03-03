@@ -1,4 +1,5 @@
 # Data-Structure-and-Algorithms-Project
+Name: Blake Love
 This project was conducted in order to implement an array of concepts such as data structures, including arrays, stacks, queues, lists, trees, strings, graphs, and files.
 This project was also done along side two partners Peyton deboer and Susie. 
 Overall concept on the project:
